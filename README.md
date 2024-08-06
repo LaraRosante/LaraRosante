@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
+## Olá famil, bom dia pra qum é de bomdia, boa noite pra quem é de boa noite e boa tarde pra quem é de boa tarde!!!
+!
 **LaraRosante/LaraRosante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou estudando na [Alura](https://www.alura.com.br)
+
+-minha prof é a veridiana
+
+-estou amandooo ✨
+
+
+![](https://media1.tenor.com/m/AgQAaesDlbYAAAAC/amywolfchan-skz.gif)
